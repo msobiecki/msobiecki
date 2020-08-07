@@ -1,4 +1,4 @@
-### Hi there, I'm Mike - self-employed developer in [CODESHAKER][companywebsite] 🥤 
+## Hi there, I'm Mike - self-employed developer in [CODESHAKER][companywebsite] 🥤 
 
 ### Connect with me:
 
