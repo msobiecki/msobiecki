@@ -1,11 +1,8 @@
 ## Hi there, I'm Mike - self-employed developer in [CODESHAKER][companywebsite] 🥤 
 
-#### Connect with me:
+#### Connect with me: [<img alt="SaliMike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][privatelinkedin] [<img alt="SaliMike | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][privatefacebook] [<img alt="SaliMike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][privateinstagram]
 
-[<img alt="SaliMike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][privatelinkedin] [<img alt="SaliMike | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][privatefacebook] [<img alt="SaliMike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][privateinstagram]
-
-#### Business proposals:
-[<img alt="CODESHAKER | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][companywebsite] [<img alt="CODESHAKER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][companylinkedin] [<img alt="CODESHAKER | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][companyfacebook]
+#### Business proposals: [<img alt="CODESHAKER | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][companywebsite] [<img alt="CODESHAKER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][companylinkedin] [<img alt="CODESHAKER | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][companyfacebook]
 
 <br/>
 
