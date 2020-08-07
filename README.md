@@ -1,8 +1,5 @@
 ### Hi there, I'm Mike - self-employed developer in [CODESHAKER][companywebsite] 🥤 
 
-### Business proposals:
-[<img alt="CODESHAKER | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][companywebsite] [<img alt="CODESHAKER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][companylinkedin] [<img alt="CODESHAKER | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][companyfacebook]
-
 ### Connect with me:
 
 [<img alt="SaliMike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][privatelinkedin] [<img alt="SaliMike | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][privatefacebook] [<img alt="SaliMike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][privateinstagram]
@@ -17,6 +14,9 @@
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 ---
+
+### Business proposals:
+[<img alt="CODESHAKER | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][companywebsite] [<img alt="CODESHAKER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][companylinkedin] [<img alt="CODESHAKER | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][companyfacebook]
 
 <img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salimike&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 <img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimike&layout=compact&hide_border=true" />
