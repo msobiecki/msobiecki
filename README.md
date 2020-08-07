@@ -18,6 +18,8 @@
 ### Business proposals:
 [<img alt="CODESHAKER | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][companywebsite] [<img alt="CODESHAKER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][companylinkedin] [<img alt="CODESHAKER | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][companyfacebook]
 
+---
+
 <img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salimike&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 <img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimike&layout=compact&hide_border=true" />
 
