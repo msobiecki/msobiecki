@@ -1,4 +1,4 @@
-## Hi there, I'm Mike - Full-stack Javascript developer in own company [CODESHAKER][companywebsite] 🥤 
+## Hi there, I'm Mike - Full-stack Javascript Developer in own company [CODESHAKER][companywebsite] 🥤 
 
 #### Connect with me:
 [<img alt="SaliMike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][privatelinkedin] [<img alt="SaliMike | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][privatefacebook] [<img alt="SaliMike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][privateinstagram]
