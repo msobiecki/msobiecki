@@ -1,7 +1,7 @@
 ## Hi there, I'm Mike
 
 #### Connect with me:
-[<img alt="SaliMike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][privatelinkedin] [<img alt="SaliMike | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][privatefacebook] [<img alt="SaliMike | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][privateinstagram]
+[<img alt="msobiecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Acquired knowledge:
 
@@ -18,9 +18,4 @@
 
 <img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimike&layout=compact&hide_border=true" />
 
-[companywebsite]: https://codeshaker.pl
-[companyfacebook]: https://www.facebook.com/CODESHAKERpl
-[companylinkedin]: https://www.linkedin.com/company/codeshakerpl
-[privatelinkedin]: https://www.linkedin.com/in/msobiecki
-[privatefacebook]: https://www.facebook.com/ToChybaOn
-[privateinstagram]: https://www.instagram.com/salimike_
+[linkedin]: https://www.linkedin.com/in/msobiecki
