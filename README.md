@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salimike&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimike&layout=compact&hide_border=true" />
+<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&layout=compact&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/msobiecki
