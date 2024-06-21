@@ -9,13 +9,36 @@
 
 ## Current challenges 🗡🐉:
 
-<img title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img title="Godot" alt="Godot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" /> <img title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <br/>
 <br/>
 
-<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&theme=dark&hide_border=true&layout=donut"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut" />
+</picture>
 
-<img alt="SaliMIke's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&layout=compact&hide_border=true" />
+<br/>
+<br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&theme=dark&hide_border=true&hide_rank=true&custom_title=Overall+Statistics"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics" />
+</picture>
 
 [linkedin]: https://www.linkedin.com/in/msobiecki
