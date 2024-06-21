@@ -14,31 +14,35 @@
 <br/>
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&theme=dark&hide_border=true&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut" />
-</picture>
-
-<br/>
-<br/>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&theme=dark&hide_border=true&hide_rank=true&custom_title=Overall+Statistics"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&theme=dark&hide_border=true&layout=donut"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobiecki&show_icons=true&hide_border=true&layout=donut" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&theme=dark&hide_border=true&hide_rank=true&custom_title=Overall+Statistics"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=msobiecki&show_icons=true&hide_border=true&custom_title=Overall+Statistics" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 [linkedin]: https://www.linkedin.com/in/msobiecki
