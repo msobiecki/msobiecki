@@ -17,6 +17,10 @@
     <td align="center"><img title="Sass preprocess CSS" alt="Sass preprocess CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
   </tr>
   <tr>
+    <th>Mobile</th>
+    <td align="center"><img title="React Native" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></td>
+  </tr>
+  <tr>
     <th>Backend</th>
     <td align="center"><img title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></td>
     <td align="center"><img title="Express.js" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></td>
@@ -51,6 +55,11 @@
   <tr>
     <th>Mobile</th>
     <td align="center"><img title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td align="center"><img title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></td>
+    <td align="center"><img title="DotNet" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" /></td>
   </tr>
   <tr>
     <th>Gamedev</th>
