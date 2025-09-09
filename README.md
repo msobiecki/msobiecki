@@ -57,7 +57,7 @@
     <th>Backend</th>
     <td align="center"><img title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></td>
     <td align="center"><img title="DotNet" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" /></td>
-    <td align="center"><img title="DotNet" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></td>
+    <td align="center"><img title="Golang" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></td>
   </tr>
   <tr>
     <th>Gamedev</th>
